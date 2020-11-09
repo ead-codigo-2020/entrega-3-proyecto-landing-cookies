@@ -30,4 +30,3 @@ Ejemplo de repositorio inicial para usar Bootstrap como dependencia
 /package-lock.json   ---------------- versiones específicas de dependencias
 /postcss.config.js   ---------------- configuración de PostCSS
 /webpack.config.js   ---------------- configuración de WebPack (Encore)
-```
