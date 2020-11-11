@@ -33,5 +33,27 @@ html {
     background-color: #C4C4C4;
     height: 60px;
   }
-  
 
+  body,
+  html {
+    height: 100%;
+  
+  }
+  
+  .center-me {
+    display: grid;
+  }
+  
+  .item-active {
+    background-color: #C4C4C4;
+  }
+  
+  .rotate-text{
+    text-transform: uppercase;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+  }
+  /*Rotar los textos*/
