@@ -48,12 +48,26 @@ html {
   background-color: #C4C4C4;
 }
 
+
+
+
+.rotate-wrapper{
+  max-width: 75px;
+  height: 150px;
+}
 .rotate-text{
   text-transform: uppercase;
   transform: rotate(-90deg);
-  -webkit-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg) translateX(-100%);
   -moz-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   -o-transform: rotate(-90deg);
+  white-space: nowrap;
 }
+
 /*Rotar los textos*/
+
+
+.min-height{
+  min-height: auto;
+}
