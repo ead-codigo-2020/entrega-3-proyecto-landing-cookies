@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 html {
   position: relative;
   min-height: 100%;
@@ -52,22 +53,35 @@ html {
 
 
 .rotate-wrapper{
-  max-width: 75px;
+  width: 75px;
   height: 150px;
 }
 .rotate-text{
-  text-transform: uppercase;
+
   transform: rotate(-90deg);
   -webkit-transform: rotate(-90deg) translateX(-100%);
   -moz-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   -o-transform: rotate(-90deg);
   white-space: nowrap;
+  font-family: 'Noto Serif', serif;
+  font-weight: 700;
 }
 
 /*Rotar los textos*/
 
 
+.ml-4 {
+  font-family: 'Noto Sans', sans-serif;
+font-weight: 400;
+}
+
 .min-height{
   min-height: auto;
+}
+
+
+.h1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
 }
