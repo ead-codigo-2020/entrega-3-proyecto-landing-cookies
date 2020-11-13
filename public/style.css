@@ -33,6 +33,7 @@ html {
 .rotate-wrapper{
   width: 75px;
   height: 150px;
+  border-radius: 5px;
 }
 .rotate-text{
 
