@@ -60,10 +60,9 @@ html {
 
 
 h1 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Noto Sarif', serif;
   font-weight: 700;
 }
-
 
 
 
@@ -76,6 +75,7 @@ h1 {
   font-size:15px;
   line-height:24px;
   color:#bbb;
+  margin-top: 80px;
 }
 .site-footer hr
 {
