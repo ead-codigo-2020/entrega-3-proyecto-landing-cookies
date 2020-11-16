@@ -67,6 +67,22 @@ h1 {
 
 
 
+.info-ref {
+  list-style: none;
+  margin-left: 65%;
+
+}
+
+.info-ref a {
+  text-decoration: none;
+  color: #737373;
+}
+
+.info-ref a:hover {
+  color: #4d2c00;
+}
+
+
 
 .site-footer
 {
