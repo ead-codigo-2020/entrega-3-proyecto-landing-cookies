@@ -93,8 +93,9 @@ h1 {
 
 
 .info-ref {
+  text-align: right;
   list-style: none;
-  margin-left: 60%;
+  margin-right: 10%;
 
 }
 
