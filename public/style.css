@@ -70,9 +70,10 @@ html {
   white-space: nowrap;
   font-family: 'Noto Serif', serif;
   font-weight: 700;
-  width: 75px;
+}
 
-  
+#fix {
+  width: 75px;
 }
 
 /*Rotar los textos*/
