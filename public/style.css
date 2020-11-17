@@ -38,8 +38,7 @@ html {
 
 .navbar a:hover {
   color: #e7dcc5;
- opacity: 70%;
-
+  opacity: 70%;
 }
 
 .breadcrumb a {
